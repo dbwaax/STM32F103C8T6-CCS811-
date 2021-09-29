@@ -1,0 +1,6 @@
+SCL ->PA11
+SDA ->PA12
+nWAK ->PB0 //5
+nINT ->PB1 //8
+RST ->ธ฿
+ADD ->ตุ
